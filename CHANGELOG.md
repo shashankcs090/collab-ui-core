@@ -1,3 +1,24 @@
+## [10.14.2](https://github.com/collab-ui/collab-ui-core/compare/v10.14.1...v10.14.2) (2018-07-09)
+
+
+### Bug Fixes
+
+* **modal:** move padding from container to internal selectors ([c39c951](https://github.com/collab-ui/collab-ui-core/commit/c39c951))
+
+## [10.14.1](https://github.com/collab-ui/collab-ui-core/compare/v10.14.0...v10.14.1) (2018-07-06)
+
+
+### Bug Fixes
+
+* **close:** change close component colors ([6afda58](https://github.com/collab-ui/collab-ui-core/commit/6afda58))
+
+# [10.14.0](https://github.com/collab-ui/collab-ui-core/compare/v10.13.1...v10.14.0) (2018-07-06)
+
+
+### Features
+
+* **modal:** update modal to Toolkit design ([d08e345](https://github.com/collab-ui/collab-ui-core/commit/d08e345))
+
 ## [10.13.1](https://github.com/collab-ui/collab-ui-core/compare/v10.13.0...v10.13.1) (2018-06-29)
 
 
